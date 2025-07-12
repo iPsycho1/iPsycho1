@@ -2,7 +2,10 @@
 <h3 align="center">یک توسعه‌دهنده و علاقه‌مند به تکنولوژی.</h3>
 
 ---
-
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e8573a161921919.63ce8c3574251.gif" alt="Animated Portrait by Evgeniy Yudin" width="500"/>
+</p>
+---
 ### 📊 آمار گیت‌هاب من:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iPsycho1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="iPsycho1's github stats" />
