@@ -17,7 +17,7 @@
 
 ### 🗣 با من در ارتباط باشید:
 <p align="center">
-  <a href="https://t.me/562276409" target="_blank">
+  <a href="https://t.me/iPsycho1" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="my-telegram"/>
   </a>
   <a href="https://twitter.com/iPsycho01" target="_blank">
