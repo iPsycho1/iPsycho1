@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DFF58&center=true&repeat=false&random=true&width=435&lines=%F0%9F%A4%9D+%D8%B3%D9%84%D8%A7%D9%85+%D9%85%D9%86+iPsycho+%D9%87%D8%B3%D8%AA%D9%85;%D8%A8%D9%87+%D8%B5%D9%81%D8%AD%D9%87+%DA%AF%DB%8C%D8%AA+%D9%87%D8%A7%D8%A8+%D9%85%D9%86+%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=nazanin&pause=1000&color=5DFF58&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%A4%9D+%D8%B3%D9%84%D8%A7%D9%85+%D9%85%D9%86+iPsycho+%D9%87%D8%B3%D8%AA%D9%85;%D8%A8%D9%87+%D8%B5%D9%81%D8%AD%D9%87+%DA%AF%DB%8C%D8%AA+%D9%87%D8%A7%D8%A8+%D9%85%D9%86+%D8%AE%D9%88%D8%B4+%D8%A2%D9%85%D8%AF%DB%8C%D8%AF" alt="Typing SVG" /></a>
 
 ---
 <p align="center">
