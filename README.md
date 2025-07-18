@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iPsycho1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="iPsycho1's github stats" />
   <br/>
 
-### 🤝 با من در ارتباط باشید:
+### 🤝 راه های ارتباطی :
 <p align="center">
   <a href="https://t.me/YOUR-TELEGRAM-ID" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="my-telegram"/>
